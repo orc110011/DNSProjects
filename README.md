@@ -4,8 +4,7 @@
 Projects consists of creating a DNS Server for  Windows Operating System, Use dig to see the structure of the DNS hierarchy, and to examine a Windows DNS server to see if it randomized source ports during recursive lookups.
 
 <h2>Languages and Utilities Used</h2>
-
-- <b> 
+- <b>DOS</b>
 - <b>VMWARE Workstation Pro </b>
 
 <h2>Environments Used </h2>

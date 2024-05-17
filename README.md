@@ -5,7 +5,7 @@ Projects consists of creating a DNS Server for both Windows and LINUX Operating 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>DOS andlINUX BASH Script </b> 
+- <b>DOS and LINUX BASH Script </b> 
 - <b>VMWARE Workstation Pro </b>
 
 <h2>Environments Used </h2>

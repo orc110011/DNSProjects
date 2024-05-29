@@ -130,8 +130,6 @@ dig @8.8.8.8 com rrsig
 <br />
 <br />
 <img src="https://i.imgur.com/USyG1uw.png height="65%" width="65%" />
-<br />
-<br />
 -IPv6 for CISCO.com
 <p align="center"> 
 -This query finds the IPv6 address for CISCO.  In a Command Prompt, we need to execute this command:
